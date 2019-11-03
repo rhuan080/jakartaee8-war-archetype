@@ -1,4 +1,4 @@
-# javaee8-war-archetype
+# jakartaee8-war-archetype
 Archetype to create a Jakarta EE 8 project.
 
 ## Install on your local repository
